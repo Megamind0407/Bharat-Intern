@@ -11,7 +11,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* background: #dddfeb; */
   background-image:url('./city.jpg');
   background-image: cover;
   background-size:1600px;
